@@ -1,1 +1,2 @@
 # IOT-Task-1-ESP32-LED-Connection
+In this task, we linked ESP32 with the website that gives the order for the robot movement and connected it with four LEDs. To illustrate, if the website consists the word "forward", LED 1 will light on, and the word "forward" will be shown on the serial monitor. The same thing will be applied for the other directions, "Left", "Right", and "Backward". Each command has its own LED. The simulation has been done using Wokwi
